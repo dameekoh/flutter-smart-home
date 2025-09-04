@@ -5,7 +5,6 @@ A modern Flutter application for controlling smart home devices with an intuitiv
 ![Smart Home App](SmartHome.jpg)
 
 ## Features
-
 - **Device Control**: Toggle smart devices on/off with interactive switches
 - **Real-time Status**: Visual feedback showing device power states
 - **Device Types Supported**:
